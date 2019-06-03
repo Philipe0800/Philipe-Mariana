@@ -1,0 +1,15 @@
+h1{color:antiquewhite; font-family: fantasy;}
+
+h2{color:beige; margin-bottom: auto}
+
+h4{color:beige;}
+
+p{color:bisque;}
+
+body{font-family: sans-serif; background-color: darkslategrey;}
+
+.fundo{background-color: darkcyan}
+
+.bordagrossa{border: 2px solid darkred}
+
+.borda{border: 3px dashed darkred}
